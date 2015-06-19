@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="products">
+        <item >Essentials</item>
+        <item >Women</item>
+        <item >Kids and Men</item>
+        <item >Others</item>
+    </string-array>
+
+
+
+</resources>
