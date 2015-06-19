@@ -53,6 +53,7 @@ public class MainActivity extends Activity  {
        // String jj = NetClient.source();
         // System.out.println("result"+""+jj);
         System.out.println("Hello World");
+        System.out.println("Hello Android");
 
        // TextView tv = (TextView) findViewById(R.id.jsontext);
      //   tv.setText(jsonObject.toString());
