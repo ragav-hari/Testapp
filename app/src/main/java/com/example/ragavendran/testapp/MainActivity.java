@@ -55,6 +55,7 @@ public class MainActivity extends Activity  {
         System.out.println("Hello World");
         System.out.println("Hello Android");
 
+        
        // TextView tv = (TextView) findViewById(R.id.jsontext);
      //   tv.setText(jsonObject.toString());
     }
