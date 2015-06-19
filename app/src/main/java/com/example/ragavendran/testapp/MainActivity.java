@@ -52,7 +52,7 @@ public class MainActivity extends Activity  {
         // JSONObject jsonObject = NetClient.source();
        // String jj = NetClient.source();
         // System.out.println("result"+""+jj);
-
+        System.out.println("Hello World");
 
        // TextView tv = (TextView) findViewById(R.id.jsontext);
      //   tv.setText(jsonObject.toString());
